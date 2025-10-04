@@ -34,7 +34,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/avishka-hashara" target="_blank">
+  <a href="www.linkedin.com/in/avishkahashara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/avishka-hashara" target="_blank">
