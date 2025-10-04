@@ -22,16 +22,6 @@
 
 ---
 
-## 📸 Featured Projects
-
-🎯 **[Melting Point Prediction](#)** – Predicting melting points of compounds using ML  
-🧩 **[Student Grade Predictor](#)** – ML model predicting student final grades  
-⚙️ **[Dockerized ML Pipeline](#)** – End-to-end ML system with Docker and AWS  
-
-> 🚀 Check out my repositories for more cool stuff!
-
----
-
 ## 🧠 Currently Learning
 
 - 🧩 MLOps (CI/CD for ML)
