@@ -65,33 +65,13 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Avishka-Hashara&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=Avishka-Hashara&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Hashara&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Avishka-Hashara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=Avishka-Hashara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishka-Hashara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# ⚡ Fun Fact
+# ⚡ Fact
 
 I enjoy building **AI systems, ML pipelines, and intelligent software** that solve real-world problems and scale globally.
 
