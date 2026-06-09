@@ -7,7 +7,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 - 🎓 Computer Science Undergraduate  
 - 🤖 Passionate about **Machine Learning & Artificial Intelligence**
@@ -17,7 +17,7 @@
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -33,7 +33,7 @@
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 - 🔥 Deep Learning with **PyTorch**
 - ⚙️ **MLOps & Model Deployment**
@@ -43,7 +43,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -63,7 +63,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Avishka-Hashara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=Avishka-Hashara&theme=dark&hide_border=false)<br/>
@@ -71,7 +71,7 @@
 
 ---
 
-# ⚡ Fact
+# Fact
 
 I enjoy building **AI systems, ML pipelines, and intelligent software** that solve real-world problems and scale globally.
 
